@@ -1,0 +1,5 @@
+epoch: 0
+val_loss: 0.64363086
+test_loss: 0.6675905
+
+
